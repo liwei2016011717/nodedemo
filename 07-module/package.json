@@ -1,0 +1,22 @@
+{
+  "name": "liwei",
+  "version": "1.0.0",
+  "description": "1314",
+  "main": "01-third-module.js",
+  "dependencies": {
+    "date-now": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "123"
+  },
+  "repository": {
+    "type": "git",
+    "url": "liwei"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "liwei",
+  "license": "ISC"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "liwei",
+  "version": "1.0.0",
+  "description": "",
+  "main": "template.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liwei2016011717/nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liwei2016011717/nodejs/issues"
+  },
+  "homepage": "https://github.com/liwei2016011717/nodejs#readme"
+}
