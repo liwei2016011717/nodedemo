@@ -18,10 +18,10 @@ cp.execFile('cat',['01-exec-file.js'],(err,out,error)=>{
 })
 */
 
-cp.execFile(cmd,argv,(err,out,error)=>{
+cp.execFile(cmd,arg,(err,out,error)=>{
   if(err){
     console.error(error);
     process.exit(100);
   }
   console.log(out);
-})
+});
